@@ -14,6 +14,7 @@ document.addEventListener("keypress", function (event){
 
    
     sound(event.key);
+    buttonAnim(event.key)
 })
 
  
